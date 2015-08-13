@@ -4,4 +4,4 @@ You can also quickly deploy a version of this example to Heroku by clicking the 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Example: [http://fanout-laravel-example.herokuapp.com//](http://fanout-laravel-example.herokuapp.com/)
+Example: [http://fanout-laravel-example.herokuapp.com/](http://fanout-laravel-example.herokuapp.com/)
