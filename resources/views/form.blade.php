@@ -21,8 +21,8 @@
 	</form>	
     @{{msg}}
 </div>
-<script src="http://da1cbe49.fanoutcdn.com/bayeux/static/faye-browser-min.js"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/vue/0.12.10/vue.min.js"></script>
+<script src="https://da1cbe49.fanoutcdn.com/bayeux/static/faye-browser-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/0.12.10/vue.min.js"></script>
 <script type="text/javascript" src="zepto.js"></script>
 <script type="text/javascript" src="app.js"></script>
 </body>
