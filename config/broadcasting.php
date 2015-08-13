@@ -8,8 +8,8 @@ return [
 
        'fanout' => [
             'driver' => 'fanout',
-            'realm_id' => '',
-            'realm_key' => '',
+            'realm_id' => 'da1cbe49',
+            'realm_key' => '75wgSdYqKOWZ6dMrhaaNrQ==',
             'ssl' => true,
             'publish_async' => false
         ],

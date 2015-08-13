@@ -27,7 +27,7 @@ var add = new Vue({
   }      
 })
 
-var client = new Faye.Client('http://9b1cf4d8.fanoutcdn.com/bayeux');
+var client = new Faye.Client('http://da1cbe49.fanoutcdn.com/bayeux');
 client.subscribe('/test', function (item) {
     app.posts.push({ title: item.data.message })
 });
